@@ -56,6 +56,22 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(settingsIntent);
             }
         });
+
+        ImageButton mediaPlayer = (ImageButton) findViewById(R.id.media_player_button);
+
+
+        mediaPlayer.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent mediaPlayerIntent = new Intent(MainActivity.this, MediaPlayerActivity.class);
+
+
+                startActivity(mediaPlayerIntent);
+            }
+        });
+
+
     }
 
 }

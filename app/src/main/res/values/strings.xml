@@ -4,4 +4,5 @@
     <string name="settings_description">Here, the user can change the settings such as equalizer, general info about the app, etc.</string>
     <string name="songInfo_description">Here, the user can find information about the song such as album, release date, etc.</string>
     <string name="song_playing">Now playing ..... from ..... .</string>
+    <string name="media_player">This button should start a media player. For this there should be an implementation of the Android Media Player API.</string>
 </resources>
