@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="search_description">Here, the user can find the songs in the library</string>
+    <string name="settings_description">Here, the user can change the settings such as equalizer, general info about the app, etc.</string>
+    <string name="songInfo_description">Here, the user can find information about the song such as album, release date, etc.</string>
+    <string name="song_playing">Now playing ..... from ..... .</string>
+</resources>
